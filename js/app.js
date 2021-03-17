@@ -264,7 +264,7 @@ var ViewMap = function (t) {
         $('.back-btn').removeClass('d-none');
         
         var map = new google.maps.Map(document.getElementById('map'), {
-          center: new google.maps.LatLng(-33.863276, 151.207977),
+          center: new google.maps.LatLng(20.5937, 78.9629),
           zoom: 12
         });
         
